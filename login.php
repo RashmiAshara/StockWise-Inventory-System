@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-	<title>Rashmi Trade Center - Login</title>
+	<title>StockWise Trade Center - Login</title>
 	<meta content="" name="description">
 	<meta content="" name="keywords">
 
@@ -43,7 +43,7 @@
 							<div class="d-flex justify-content-center py-4">
 								<a href="index.html" class="logo d-flex align-items-center w-auto">
 									<img src="assets/img/logo.png" alt="">
-									<span class="d-none d-lg-block">Rashmi Trade Center</span>
+									<span class="d-none d-lg-block">StockWise Trade Center</span>
 								</a>
 							</div><!-- End Logo -->
 
@@ -82,7 +82,7 @@
 								</div>
 							</div>
 							<div class="credits">
-								Designed for <a href="">Rashmi - Trade Center </a>
+								Designed for <a href="">StockWise - Trade Center </a>
 							</div>
 						</div>
 					</div>
