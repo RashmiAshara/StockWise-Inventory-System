@@ -88,7 +88,7 @@ echo <<<EOT
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title> $active - StockWise Trade Center</title>
+  <title> $active - StockWise</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -135,7 +135,7 @@ echo <<<EOT
     <div class="d-flex align-items-center justify-content-between">
       <a href="Dashboard.php" class="logo d-flex align-items-center">
         <img src="assets/img/logo.png" alt="">
-        <span class="d-none d-lg-block">StockWise Trade Center</span>
+        <span class="d-none d-lg-block">StockWise System</span>
       </a>
       <i class="bi bi-list toggle-sidebar-btn"></i>
     </div>
